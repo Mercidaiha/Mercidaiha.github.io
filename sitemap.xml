@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mercidaiha.github.io/2022/02/06/%E6%A6%82%E7%BB%9F%EF%BC%881%EF%BC%89/</loc>
+    
+    <lastmod>2022-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mercidaiha.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-06</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://mercidaiha.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-02-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mercidaiha.github.io/2022/02/06/%E6%A6%82%E7%BB%9F%EF%BC%881%EF%BC%89/</loc>
     
     <lastmod>2022-02-06</lastmod>
     
