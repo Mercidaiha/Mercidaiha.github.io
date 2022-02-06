@@ -318,6 +318,13 @@
 
         
 
+	<span class="article-read hidden-xs">
+    	<i class="icon icon-eye-fill" aria-hidden="true"></i>
+    	<span id="/categories/index.html" class="leancloud_visitors"  data-flag-title="categories">
+			<span class="leancloud-visitors-count">0</span>
+		</span>
+    </span>
+
         <span class="post-comment"><i class="icon icon-comment"></i> <a href="/categories/index.html#comments" class="article-comment-link">评论</a></span>
         
       </div>
@@ -451,7 +458,7 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
   <script src="//cdn.jsdelivr.net/npm/valine"></script>
   <script type="text/javascript">
   var GUEST = ['nick', 'mail', 'link'];
-  var meta = 'nick,mail,link';
+  var meta = 'nick';
   meta = meta.split(',').filter(function(item) {
     return GUEST.indexOf(item) > -1;
   });
@@ -461,11 +468,11 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
     notify: false,
     appId: 'RRGWYmtzGOOn63crYbYARdIw-gzGzoHsz',
     appKey: '0Yn4iOeavI2iXmHcxLQ86KFN',
-    placeholder: 'Just go go',
+    placeholder: '',
     avatar: 'mm',
     meta: meta,
-    pageSize: '5' || 10,
-    visitor: false
+    pageSize: '2' || 10,
+    visitor: true
   });
   </script>
 
