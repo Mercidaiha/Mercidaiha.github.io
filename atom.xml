@@ -3,11 +3,11 @@
   <title>Mercidaiha</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://mercidaiha.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-02-05T16:09:40.562Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://mercidaiha.github.io/project/"/>
+  <updated>2022-02-06T08:07:11.265Z</updated>
+  <id>https://mercidaiha.github.io/project/</id>
   
   <author>
     <name>Wei Song</name>
@@ -17,22 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>gt</title>
-    <link href="http://example.com/2022/02/06/gt/"/>
-    <id>http://example.com/2022/02/06/gt/</id>
-    <published>2022-02-05T16:09:40.000Z</published>
-    <updated>2022-02-05T16:09:40.562Z</updated>
+    <title>概统（1）</title>
+    <link href="https://mercidaiha.github.io/project/2022/02/06/%E6%A6%82%E7%BB%9F%EF%BC%881%EF%BC%89/"/>
+    <id>https://mercidaiha.github.io/project/2022/02/06/%E6%A6%82%E7%BB%9F%EF%BC%881%EF%BC%89/</id>
+    <published>2022-02-06T07:40:31.000Z</published>
+    <updated>2022-02-06T08:07:11.265Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h3><blockquote><p><strong>基本事件</strong>：随机试验中的每个单一结果</p></blockquote><blockquote><p><strong>随机事件</strong>：简称事件，在随机试验中我们所关心的可能出现的各种结果，它由一个或若干个基本事件组成.</p><p>ps:随机事件常用大写英文字母A,B,C,D等表示. 如果用语言表达，则要用花括号括起来.</p></blockquote><blockquote><p><strong>样本空间</strong>：随机试验中所有基本事件所构成的集合，通常用$\Omega$或S表示</p></blockquote><blockquote><p><strong>必然事件（$\Omega$）</strong>：在试验中一定会发生的事件；</p></blockquote><blockquote><p>**不可能事件（$\Phi$)**：在试验中不可能发生的事件</p></blockquote><p>###to be continued</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;基本概念&quot;&gt;&lt;a href=&quot;#基本概念&quot; class=&quot;headerlink&quot; title=&quot;基本概念&quot;&gt;&lt;/a&gt;基本概念&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;基本事件&lt;/strong&gt;：随机试验中的每个单一结果&lt;/p&gt;
+&lt;/blockquo</summary>
+      
     
     
     
+    <category term="概率论与数理统计" scheme="https://mercidaiha.github.io/project/categories/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/"/>
     
+    
+    <category term="statistic" scheme="https://mercidaiha.github.io/project/tags/statistic/"/>
+    
+    <category term="math" scheme="https://mercidaiha.github.io/project/tags/math/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/02/05/hello-world/"/>
-    <id>http://example.com/2022/02/05/hello-world/</id>
+    <link href="https://mercidaiha.github.io/project/2022/02/05/hello-world/"/>
+    <id>https://mercidaiha.github.io/project/2022/02/05/hello-world/</id>
     <published>2022-02-05T15:08:23.090Z</published>
     <updated>2022-02-05T15:08:23.090Z</updated>
     
