@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mercidaiha.github.io/2022/04/20/part-7-2/</loc>
+    
+    <lastmod>2022-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mercidaiha.github.io/2022/02/06/%E6%A6%82%E7%BB%9F%EF%BC%881%EF%BC%89/</loc>
     
     <lastmod>2022-02-08</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://mercidaiha.github.io/</loc>
-    <lastmod>2022-02-08</lastmod>
+    <lastmod>2022-04-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,14 +102,28 @@
   
   <url>
     <loc>https://mercidaiha.github.io/tags/statistic/</loc>
-    <lastmod>2022-02-08</lastmod>
+    <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mercidaiha.github.io/tags/math/</loc>
-    <lastmod>2022-02-08</lastmod>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mercidaiha.github.io/tags/operating-system/</loc>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mercidaiha.github.io/tags/cs/</loc>
+    <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -109,7 +132,14 @@
   
   <url>
     <loc>https://mercidaiha.github.io/categories/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</loc>
-    <lastmod>2022-02-08</lastmod>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mercidaiha.github.io/categories/os2022/</loc>
+    <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

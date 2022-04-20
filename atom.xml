@@ -6,7 +6,7 @@
   <link href="https://mercidaiha.github.io/atom.xml" rel="self"/>
   
   <link href="https://mercidaiha.github.io/"/>
-  <updated>2022-02-08T12:47:37.757Z</updated>
+  <updated>2022-04-20T06:12:47.855Z</updated>
   <id>https://mercidaiha.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>part 7-2</title>
+    <link href="https://mercidaiha.github.io/2022/04/20/part-7-2/"/>
+    <id>https://mercidaiha.github.io/2022/04/20/part-7-2/</id>
+    <published>2022-04-20T06:09:41.000Z</published>
+    <updated>2022-04-20T06:12:47.855Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="vm虚拟内存"><a class="markdownIt-Anchor" href="#vm虚拟内存"></a> VM(虚拟内存)</h5><blockquote><p><strong>cpu执行过程</strong>：所有进程(虚拟地址)</p><p><strong>地址转换</strong>？虚拟与物理地址</p><blockquote><p>连续空间分配：动态增长？进程大小</p></blockquote></blockquote><hr /><h5 id="mmu实现"><a class="markdownIt-Anchor" href="#mmu实现"></a> MMU实现</h5><p><strong>目标</strong>：地址翻译 -&gt; 查找表 -&gt; 空间开销太大-&gt; 减少映射条目（从虚拟地址映射到物理地址）</p><p><strong>思想</strong>：粗粒度映射 一块地址范围建一个映射</p><p>​4k（12bits）是一个page -&gt; 分页 -&gt; 页表（逻辑页到物理页映射）</p><p><img src="C:%5CUsers%5C%E5%AE%8B%E7%8E%AE%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220420111430936.png" alt="image-20220420111430936" /></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h5 id=&quot;vm虚拟内存&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#vm虚拟内存&quot;&gt;&lt;/a&gt; VM(虚拟内存)&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;cpu执行过程&lt;/strong&gt;：所有进程(虚拟地址)&lt;/p&gt;
+&lt;p&gt;&lt;s</summary>
+      
+    
+    
+    
+    <category term="os2022" scheme="https://mercidaiha.github.io/categories/os2022/"/>
+    
+    
+    <category term="operating system" scheme="https://mercidaiha.github.io/tags/operating-system/"/>
+    
+    <category term="cs" scheme="https://mercidaiha.github.io/tags/cs/"/>
+    
+  </entry>
   
   <entry>
     <title>概统（1）</title>
