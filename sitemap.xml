@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mercidaiha.github.io/2022/04/21/%E5%8D%95%E5%91%A8%E6%9C%9FCPU/</loc>
+    
+    <lastmod>2022-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mercidaiha.github.io/2022/04/20/part-7-2/</loc>
     
     <lastmod>2022-04-20</lastmod>
@@ -101,6 +110,20 @@
 
   
   <url>
+    <loc>https://mercidaiha.github.io/tags/operating-system/</loc>
+    <lastmod>2022-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mercidaiha.github.io/tags/cs/</loc>
+    <lastmod>2022-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://mercidaiha.github.io/tags/statistic/</loc>
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,20 +138,20 @@
   </url>
   
   <url>
-    <loc>https://mercidaiha.github.io/tags/operating-system/</loc>
-    <lastmod>2022-04-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mercidaiha.github.io/tags/cs/</loc>
+    <loc>https://mercidaiha.github.io/tags/%E8%AE%A1%E7%BB%84/</loc>
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://mercidaiha.github.io/categories/os2022/</loc>
+    <lastmod>2022-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://mercidaiha.github.io/categories/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</loc>
@@ -138,7 +161,7 @@
   </url>
   
   <url>
-    <loc>https://mercidaiha.github.io/categories/os2022/</loc>
+    <loc>https://mercidaiha.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
