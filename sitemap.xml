@@ -110,6 +110,13 @@
 
   
   <url>
+    <loc>https://mercidaiha.github.io/tags/operating-system/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://mercidaiha.github.io/tags/cs/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -137,14 +144,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://mercidaiha.github.io/tags/operating-system/</loc>
+    <loc>https://mercidaiha.github.io/categories/os2022/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>https://mercidaiha.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/</loc>
@@ -155,13 +162,6 @@
   
   <url>
     <loc>https://mercidaiha.github.io/categories/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mercidaiha.github.io/categories/os2022/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
